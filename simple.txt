@@ -1,1 +1,1 @@
-This is a new text file.
+Third change. This is a new text file.
